@@ -49,6 +49,7 @@ To add a course:
 
 1. Copy a course folder, such as `cpt363-basic/`, and give it a new name
 2. In all of its Markdown files, change `cpt363-basic/` in the links to the new folder name (links start from the site's top folder)
+   - To change them all at once, press `.` on your repository's GitHub page to open the web editor, use **Search** to replace them (with the new folder in **files to include**), then commit from **Source Control**
 3. Edit its `home.md`, its modules and pages, its `_sidebar.md` and its `_navbar.md`
 4. Add a card for it to `home.md`, linking to its `home.md`
 
