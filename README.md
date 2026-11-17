@@ -43,7 +43,7 @@ Add a Course
 ---
 
 - `home.md` – the Courses page, with a card for each course
-- `cpt363-basic/`, `cpt363-intermediate/`, `cpt363-advanced/` – one folder per course: `home.md` (its home page), its modules or weekly units, its other pages (such as `schedule.md`, `resources.md`, `syllabus.md` and `contact.md`), `images/`, `_sidebar.md` (its modules and LMS links) and `_navbar.md` (the course name, All Courses and its other pages)
+- `cpt363-basic/`, `cpt363-intermediate/`, `cpt363-advanced/` – one folder per course: `home.md` (its home page), its modules or weekly units, its other pages (such as `schedule.md`, `resources.md`, `syllabus.md` and `contact.md`), `images/`, `_sidebar.md` (its modules and LMS links) and `_navbar.md` (the course name, Home and its other pages)
 
 To add a course:
 
