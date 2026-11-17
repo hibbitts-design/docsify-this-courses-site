@@ -2,7 +2,7 @@
 
 An open home on the web for one course or many, each with its own pages, sidebar and navbar, written in plain Markdown files you control.
 
-The three example courses come from [Grav Open Course Space](https://github.com/hibbitts-design/grav-skeleton-open-course-space), published here with Docsify-This from the same Markdown files: **CPT363-1** and **CPT363-2** are organised by modules, and **CPT363-3** by weekly units.
+The three example courses come from [Grav Open Course Space](https://github.com/hibbitts-design/grav-skeleton-open-course-space), published here from the same Markdown files: **CPT363-1** and **CPT363-2** are organised by modules, and **CPT363-3** by weekly units.
 
 <div class="card-list-courses">
 
