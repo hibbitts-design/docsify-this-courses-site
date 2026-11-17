@@ -12,7 +12,7 @@ To make your own, start from the [Docsify-This Courses Site Template](https://gi
 
 [![CPT363-1](cpt363-basic/images/hugo-rocha-problem-statement-unsplash.jpg ":no-zoom")](cpt363-basic/home.md)
 
-<h2><a href="#/cpt363-basic/home">CPT363-1</a></h2>
+<h2><a href="/cpt363-basic/home">CPT363-1</a></h2>
 
 This is a basic example course, organised by modules, using only a small number of page types and features.
 
