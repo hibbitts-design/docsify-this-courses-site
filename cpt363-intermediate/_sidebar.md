@@ -1,5 +1,6 @@
-**[CPT363-2](cpt363-intermediate/home.md)**
+**CPT363-2**
 
+- [Home](cpt363-intermediate/home.md)
 - [Welcome](cpt363-intermediate/welcome.md)
 - [Module 1](cpt363-intermediate/module-01.md)
 - [Module 2](cpt363-intermediate/module-02.md)

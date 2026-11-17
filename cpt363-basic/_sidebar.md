@@ -1,5 +1,6 @@
-**[CPT363-1](cpt363-basic/home.md)**
+**CPT363-1**
 
+- [Home](cpt363-basic/home.md)
 - [Welcome](cpt363-basic/welcome.md)
 - [Module 1](cpt363-basic/module-01.md)
 - [Module 2](cpt363-basic/module-02.md)

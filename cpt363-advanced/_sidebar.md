@@ -1,5 +1,6 @@
-**[CPT363-3](cpt363-advanced/home.md)**
+**CPT363-3**
 
+- [Home](cpt363-advanced/home.md)
 - [Week 1 (May 9 - 15)](cpt363-advanced/week-01.md)
 - [Week 2 (May 16 - 22)](cpt363-advanced/week-02.md)
 - [Week 3 (May 23 - 29)](cpt363-advanced/week-03.md)
