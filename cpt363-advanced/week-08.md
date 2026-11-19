@@ -4,7 +4,7 @@
 
 <small>Photo: [Nicholas Wang, Flickr.com](https://www.flickr.com/photos/cloneofsnake/13966760787/)</small>
 
-## **How to understand and communicate people's needs and behaviours?**
+## How to understand and communicate people's needs and behaviours?
 
 ### Summaries and Questions  
 [Jun 27 Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)

@@ -4,7 +4,7 @@
 
 <small>Photo: [Rick Dolishny, Flickr.com](https://www.flickr.com/photos/rdolishny/2760207306/)</small>
 
-## **How to conduct a usability inspection?**
+## How to conduct a usability inspection?
 
 ### Summaries and Questions  
 [Jun 13th Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)

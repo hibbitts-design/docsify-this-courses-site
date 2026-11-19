@@ -4,7 +4,7 @@
 
 <small>Photo: [Samuel Mann, Flickr.com](https://www.flickr.com/photos/21218849@N03/6968244538/)</small>
 
-## **How to explore and communicate possible design solutions?**
+## How to explore and communicate possible design solutions?
 
 ### Summaries and Questions  
 [May 30th Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)

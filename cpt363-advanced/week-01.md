@@ -4,7 +4,7 @@
 
 <small>Photo: [Julian Schüngel, Flickr.com](https://www.flickr.com/photos/medevac71/10610701655/)</small>
 
-## **What is usability and user experience design?**
+## What is usability and user experience design?
 
 > [!TIP]
 > **Learning Objectives**

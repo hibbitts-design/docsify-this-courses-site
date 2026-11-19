@@ -4,7 +4,7 @@
 
 <small>Photo: [Blake Patterson, Flickr.com](https://www.flickr.com/photos/blakespot/16230041026/)</small>
 
-## **How to design for mobile and multi-device usage?**
+## How to design for mobile and multi-device usage?
 
 ### Summaries and Questions  
 [Jun 20th Class One-minute Summaries](https://canvas.sfu.ca/courses/38847/assignments/292817)

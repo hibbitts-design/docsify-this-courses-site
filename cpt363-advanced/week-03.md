@@ -4,7 +4,7 @@
 
 <small>Photo: [Emilio Küffer, Flickr.com](https://www.flickr.com/photos/emiliokuffer/6384294717/)</small>
 
-## **How to make more strategic design decisions?**
+## How to make more strategic design decisions?
 
 ### Summaries and Questions  
 [May 23rd Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)

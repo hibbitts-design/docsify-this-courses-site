@@ -4,7 +4,7 @@
 
 <small>Photo: [CannedTuna, Flickr.com](https://www.flickr.com/photos/cannedtuna/4853380320/)</small>
 
-## **What does a holistic user experience design process look like?**
+## What does a holistic user experience design process look like?
 
 ### Summaries and Questions  
 [May 16th Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)
